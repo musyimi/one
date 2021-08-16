@@ -1,3 +1,0 @@
-<div>
-    edge page
-</div>

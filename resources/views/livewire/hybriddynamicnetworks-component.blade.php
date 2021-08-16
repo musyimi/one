@@ -1,3 +1,0 @@
-<div>
-    hybrid page
-</div>

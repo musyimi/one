@@ -1,3 +1,0 @@
-<div>
-broadband page
-</div>
